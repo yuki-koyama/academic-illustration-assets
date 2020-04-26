@@ -17,11 +17,18 @@ The goal of this repository is to improve the reusability of my assets for accel
 - Black: `#231F20`
 - Accent: `#00A551`
 
-### Illustrators
+### Illustrators (`*.ai`)
 
 - Color mode: RGB
 - Units: Pixels
+- PDF compatible file
 
-### After Effects
+### After Effects (`*.aep`)
 
 - 29.97 fps
+
+## Assets
+
+| pointer                 |
+| :---------------------- |
+| ![](./docs/pointer.jpg) |
