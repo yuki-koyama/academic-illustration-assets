@@ -15,7 +15,7 @@ The goal of this repository is to improve the reusability of my assets for accel
 ### Colors
 
 - Black: `#231F20`
-- Accent: `#00A551`
+- Accent: `#CE6B68`
 
 ### Illustrators (`*.ai`)
 
