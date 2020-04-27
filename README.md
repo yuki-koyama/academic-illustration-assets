@@ -29,6 +29,7 @@ The goal of this repository is to improve the reusability of my assets for accel
 
 ## Assets
 
-| pointer                 |
-| :---------------------- |
-| ![](./docs/pointer.jpg) |
+| file name    | preview                      |
+| :----------- | :--------------------------- |
+| pointer      | ![](./docs/pointer.jpg)      |
+| pointer-zoom | ![](./docs/pointer-zoom.jpg) |
