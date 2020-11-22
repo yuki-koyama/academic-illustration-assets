@@ -14,8 +14,8 @@ The goal of this repository is to improve the reusability of my assets for accel
 
 ### Colors
 
-- Black: `#231F20`
-- Accent: `#CE6B68`
+- Black: `#231F20`, `#4C4C4D`
+- Accent: `#CE6B68`, `#C1272D`
 
 ### Illustrators (`*.ai`)
 
@@ -27,6 +27,15 @@ The goal of this repository is to improve the reusability of my assets for accel
 
 - 29.97 fps
 
+### Fonts
+
+- Linux Libertine (`brew cask install font-linux-libertine`)
+- Linux Biolinum (`brew cask install font-linux-biolinum`)
+
+### Font Sizes
+
+- 96pt
+
 ## Assets
 
 | file name       | preview                         |
@@ -36,3 +45,4 @@ The goal of this repository is to improve the reusability of my assets for accel
 | 1-slider-window | ![](./docs/1-slider-window.jpg) |
 | dnn-1           | ![](./docs/dnn-1.jpg)           |
 | dnn-2           | ![](./docs/dnn-2.jpg)           |
+| function-1      | ![](./docs/function-1.jpg)      |
