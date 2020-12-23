@@ -46,3 +46,4 @@ The goal of this repository is to improve the reusability of my assets for accel
 | dnn-1           | ![](./docs/dnn-1.jpg)           |
 | dnn-2           | ![](./docs/dnn-2.jpg)           |
 | function-1      | ![](./docs/function-1.jpg)      |
+| function-2      | ![](./docs/function-2.jpg)      |
