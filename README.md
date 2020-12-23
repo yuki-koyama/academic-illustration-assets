@@ -32,6 +32,12 @@ The goal of this repository is to improve the reusability of my assets for accel
 - Linux Libertine (`brew cask install font-linux-libertine`)
 - Linux Biolinum (`brew cask install font-linux-biolinum`)
 
+Math equations are rendered through LaTeX with the following options:
+```latex
+\usepackage{libertine}
+\usepackage[libertine]{newtxmath}
+```
+
 ### Font Sizes
 
 - 96pt
