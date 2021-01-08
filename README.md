@@ -53,3 +53,7 @@ Math equations are rendered through LaTeX with the following options:
 | dnn-2           | ![](./docs/dnn-2.jpg)           |
 | function-1      | ![](./docs/function-1.jpg)      |
 | function-2      | ![](./docs/function-2.jpg)      |
+| speaker-0       | ![](./docs/speaker-0.jpg)       |
+| speaker-1       | ![](./docs/speaker-1.jpg)       |
+| speaker-2       | ![](./docs/speaker-2.jpg)       |
+| speaker-3       | ![](./docs/speaker-3.jpg)       |
