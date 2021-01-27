@@ -25,7 +25,8 @@ The goal of this repository is to improve the reusability of my assets for accel
 
 ### After Effects (`*.aep`)
 
-- 29.97 fps
+- 29.97 fps (`pointer.aep`)
+- 30.00 fps (the others including future assets)
 
 ### Fonts
 
@@ -57,3 +58,4 @@ Math equations are rendered through LaTeX with the following options:
 | speaker-1       | ![](./docs/speaker-1.jpg)       |
 | speaker-2       | ![](./docs/speaker-2.jpg)       |
 | speaker-3       | ![](./docs/speaker-3.jpg)       |
+| loading         | ![](./docs/loading.jpg)         |
