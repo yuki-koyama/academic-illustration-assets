@@ -50,6 +50,11 @@ Math equations are rendered through LaTeX with the following options:
 | pointer         | ![](./docs/pointer.jpg)         |
 | pointer-zoom    | ![](./docs/pointer-zoom.jpg)    |
 | 1-slider-window | ![](./docs/1-slider-window.jpg) |
+| slider-00       | ![](./docs/slider-00.png)       |
+| ...             | ...                             |
+| slider-05       | ![](./docs/slider-05.png)       |
+| ...             | ...                             |
+| slider-10       | ![](./docs/slider-10.png)       |
 | dnn-1           | ![](./docs/dnn-1.jpg)           |
 | dnn-2           | ![](./docs/dnn-2.jpg)           |
 | function-1      | ![](./docs/function-1.jpg)      |
