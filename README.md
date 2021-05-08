@@ -64,3 +64,4 @@ Math equations are rendered through LaTeX with the following options:
 | speaker-2       | ![](./docs/speaker-2.jpg)       |
 | speaker-3       | ![](./docs/speaker-3.jpg)       |
 | loading         | ![](./docs/loading.jpg)         |
+| scrible-1       | (no preview)                    |
